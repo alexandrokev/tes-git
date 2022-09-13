@@ -1,4 +1,4 @@
-<h1>INI STAGING BRANCH</h1>
+<h1>INI STAGING BRANCH GIT</h1>
 
 testing git course
 
